@@ -1,4 +1,4 @@
-FROM tensorflow:2023.2
+FROM tensorflow:2023.1
 # tensorflow
 
 # Copying custom packages
